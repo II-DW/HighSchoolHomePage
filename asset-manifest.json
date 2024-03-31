@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/HighSchoolHomePage/static/css/main.1b58efea.css",
-    "main.js": "/HighSchoolHomePage/static/js/main.2da59179.js",
+    "main.css": "/HighSchoolHomePage/static/css/main.803a5dd8.css",
+    "main.js": "/HighSchoolHomePage/static/js/main.ce04cbdb.js",
     "static/media/schoolbackground.jpg": "/HighSchoolHomePage/static/media/schoolbackground.5eda433d95700515d313.jpg",
     "static/media/clublogo.png": "/HighSchoolHomePage/static/media/clublogo.5de201a0ec551700ee6c.png",
     "static/media/daegun.png": "/HighSchoolHomePage/static/media/daegun.64a3dd4e137bf76e8bf6.png",
     "static/media/daegunlogo.png": "/HighSchoolHomePage/static/media/daegunlogo.c100986f6c2c4bcf71cf.png",
     "index.html": "/HighSchoolHomePage/index.html",
-    "main.1b58efea.css.map": "/HighSchoolHomePage/static/css/main.1b58efea.css.map",
-    "main.2da59179.js.map": "/HighSchoolHomePage/static/js/main.2da59179.js.map"
+    "main.803a5dd8.css.map": "/HighSchoolHomePage/static/css/main.803a5dd8.css.map",
+    "main.ce04cbdb.js.map": "/HighSchoolHomePage/static/js/main.ce04cbdb.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b58efea.css",
-    "static/js/main.2da59179.js"
+    "static/css/main.803a5dd8.css",
+    "static/js/main.ce04cbdb.js"
   ]
 }
