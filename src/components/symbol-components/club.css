@@ -1,0 +1,51 @@
+.Body-club {
+    justify-content: center;
+    align-items: left;
+    display: flex;
+    flex-flow: column;
+    padding-left: 10vw;
+}
+
+.Line-club {
+    margin-top: 0;
+    margin-bottom: 2vh;
+    border: 0;
+    width: 60vw;
+    align-items: left;
+    height: 1px;
+    background: black;
+  
+  }
+
+  .title-club{
+    font-size: 2vw;
+  }
+
+  .BoxInBox-club{
+    height: 30rem;
+    width: 40vw;
+    background-color: white;
+    border-radius: 5rem;
+    margin: 1vw;
+    overflow: hidden;
+    text-align: center;
+    border: solid 0.2rem;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 7px 7px rgb(182, 182, 182);
+  }
+  
+  .ClubImage{
+    width: 20vw;
+    height: 20vw;
+  }
+  
+  .Maincontent-club{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+  }

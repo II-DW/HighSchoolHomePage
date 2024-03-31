@@ -1,0 +1,41 @@
+.Footer {
+    background-color: white;
+    width: 100vw;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+  }
+  
+
+.FooterBox {
+    background-color: white;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row;
+    margin-top: 0;
+  }
+
+  .line {
+    margin-top: 0;
+    margin-bottom: 2vh;
+    border: 0;
+    width: 80vw;
+    align: center;
+    height: 1px;
+    background: black;
+  
+  }
+  
+  .IconBox{
+    width: auto;
+    padding-left: 32.5vw;
+  }
+  
+  .daegunlogo{
+    width: 2.5vw;
+    height: auto;
+  }

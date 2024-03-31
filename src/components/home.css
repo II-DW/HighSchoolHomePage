@@ -1,0 +1,101 @@
+*::-webkit-scrollbar {
+    display: none; /* 크롬, 사파리, 오페라, 엣지 */
+  }
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing : border-box;
+  }
+  
+  .Body-home {
+    background-color: white;
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+  }
+
+  .backgroundImg {
+    position: absolute;
+    top: 10vh;
+    left: 0;
+    width: 100vw;
+    height: 80vh;
+    opacity: 50%;
+    object-fit: cover;
+  }
+  
+  .Title {
+    color: white;
+    font-weight: 1000;
+    font-size: 2rem;
+  }
+  
+  .Box {
+    width: auto;
+    display: flex;
+    flex-flow: row;
+  }
+  
+  .BoxInBox{
+    height: 30rem;
+    width: 60rem;
+    background-color: white;
+    border-radius: 5rem;
+    margin: 1vw;
+    overflow: hidden;
+    text-align: center;
+    border: solid 0.2rem;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 7px 7px rgb(182, 182, 182);
+  }
+  
+  
+  .TitleBox{
+    height: auto;
+  }
+  
+  
+  
+  .line {
+    margin-top: 0;
+    margin-bottom: 2vh;
+    border: 0;
+    width: 80vw;
+    align: center;
+    height: 1px;
+    background: black;
+  
+  }
+  
+  .IconBox{
+    width: auto;
+    padding-left: 32.5vw;
+  }
+  
+  .daegunlogo{
+    width: 2.5vw;
+    height: auto;
+  }
+
+
+  .maintext-home{
+    font-family: "Gugi", sans-serif;
+    font-size: 5vw;
+  }
+
+  .subtext-home{
+    font-family: "Gugi", sans-serif;
+    font-size: 2vw;
+  }
+  
+  .tailtext-home{
+    font-family: "Gugi", sans-serif;
+    font-size: 1vw;
+  }

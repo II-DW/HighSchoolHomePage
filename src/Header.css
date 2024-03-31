@@ -1,0 +1,116 @@
+
+.Header {
+    background-color: white;
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+}
+
+.HeaderBox{
+    padding-left: 10vw;
+    background-color: white;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    flex-flow: row;
+    margin-top: 0;
+  }
+.line {
+    margin-top: 0;
+    margin-bottom: 2vh;
+    border: 0;
+    width: 80vw;
+    align: center;
+    height: 1px;
+    background: black;
+  
+  }
+
+
+  .daegun{
+    width: 10vw;
+    height: auto;
+    margin-right: 55vw;
+  }
+
+  .icon {
+    display: none;
+  }
+
+  .icon + label {
+    display: block;
+    width: 39px;
+    height: 26px;
+    cursor: pointer;
+    position: relative;
+    z-index: 4;
+  }
+
+  .icon + label > span {
+    display: block;
+    height: 5px;
+    width: 75%;
+    border-radius: 30px;
+    background: black;
+    position: absolute;
+    transition: all 0.35s;
+  }
+
+  .icon + label > span:nth-child(1) {
+    top: 0;
+  }
+
+  .icon + label > span:nth-child(2) {
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .icon + label > span:nth-child(3) {
+    bottom: 0;
+  }
+
+  .icon + label  + #header-nav {
+    position: fixed;
+    width: 150px;
+    height: 100%;
+    background: black;
+    right: -300px;
+    padding: 60px 25px 25px 25px;
+    box-sizing: border-box;
+    top: 0;
+    z-index: 3;
+    transition: all 0.35s;
+  }
+
+
+  .icon:checked + label > span:nth-child(1) {
+    top: 50%;
+    transform: translateY(-50%) rotate(45deg);
+    background: white;
+  }
+
+  .icon:checked + label > span:nth-child(2) {
+    display: none;
+  }
+
+  .icon:checked + label > span:nth-child(3) {
+    bottom: 50%;
+    transform: translateY(50%) rotate(-45deg);
+    background: white;
+  }
+
+  .icon:checked + label  + #header-nav {
+    right: 0;
+  }
+  
+  
+
+  .icon + label + #header-nav > ul > li > a {
+    color: white;
+  }
+
+  .LinkList-nav {
+    list-style-image: url("./img//daegun.png");
+  }
