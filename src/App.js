@@ -10,7 +10,7 @@ import Symbol from './components/symbol.js';
 import Perfomance from './components/perfomance.js';
 
 function App() {
-
+    
     return (
       
         <div className='MainPage'>
