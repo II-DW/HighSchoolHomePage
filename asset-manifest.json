@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/HighSchoolHomePage/static/css/main.7e23a3af.css",
-    "main.js": "/HighSchoolHomePage/static/js/main.b50c6be1.js",
+    "main.css": "/HighSchoolHomePage/static/css/main.a3257fdf.css",
+    "main.js": "/HighSchoolHomePage/static/js/main.94f49edb.js",
     "static/media/schoolbackground.jpg": "/HighSchoolHomePage/static/media/schoolbackground.5eda433d95700515d313.jpg",
     "static/media/logo303.svg": "/HighSchoolHomePage/static/media/logo303.f1be12723c01bfb44271ce610ecf1e39.svg",
     "static/media/clublogo.png": "/HighSchoolHomePage/static/media/clublogo.5de201a0ec551700ee6c.png",
@@ -13,11 +13,11 @@
     "static/media/logo304.svg": "/HighSchoolHomePage/static/media/logo304.162fe5cbe8172a5b5e1b7d8957286240.svg",
     "static/media/logo305.svg": "/HighSchoolHomePage/static/media/logo305.c138fbbf41f1e8cade45089554f22163.svg",
     "index.html": "/HighSchoolHomePage/index.html",
-    "main.7e23a3af.css.map": "/HighSchoolHomePage/static/css/main.7e23a3af.css.map",
-    "main.b50c6be1.js.map": "/HighSchoolHomePage/static/js/main.b50c6be1.js.map"
+    "main.a3257fdf.css.map": "/HighSchoolHomePage/static/css/main.a3257fdf.css.map",
+    "main.94f49edb.js.map": "/HighSchoolHomePage/static/js/main.94f49edb.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e23a3af.css",
-    "static/js/main.b50c6be1.js"
+    "static/css/main.a3257fdf.css",
+    "static/js/main.94f49edb.js"
   ]
 }
