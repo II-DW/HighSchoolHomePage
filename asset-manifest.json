@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/HighSchoolHomePage/static/css/main.a3257fdf.css",
-    "main.js": "/HighSchoolHomePage/static/js/main.94f49edb.js",
+    "main.css": "/HighSchoolHomePage/static/css/main.20f1601e.css",
+    "main.js": "/HighSchoolHomePage/static/js/main.69512fa5.js",
     "static/media/schoolbackground.jpg": "/HighSchoolHomePage/static/media/schoolbackground.5eda433d95700515d313.jpg",
     "static/media/logo303.svg": "/HighSchoolHomePage/static/media/logo303.f1be12723c01bfb44271ce610ecf1e39.svg",
     "static/media/clublogo.png": "/HighSchoolHomePage/static/media/clublogo.5de201a0ec551700ee6c.png",
     "static/media/logo302.svg": "/HighSchoolHomePage/static/media/logo302.25301357c0b3ed186a86b6e875c17978.svg",
     "static/media/logo301.svg": "/HighSchoolHomePage/static/media/logo301.f5df8ea29d0b4bf80b77fc83ec4f23c9.svg",
     "static/media/daegun.png": "/HighSchoolHomePage/static/media/daegun.64a3dd4e137bf76e8bf6.png",
+    "static/media/user.png": "/HighSchoolHomePage/static/media/user.0d14c6999b4a5c8e86a7.png",
     "static/media/daegunlogo.png": "/HighSchoolHomePage/static/media/daegunlogo.c100986f6c2c4bcf71cf.png",
     "static/media/logo307.svg": "/HighSchoolHomePage/static/media/logo307.fce0e63af7bbc629e345448607733f20.svg",
     "static/media/logo304.svg": "/HighSchoolHomePage/static/media/logo304.162fe5cbe8172a5b5e1b7d8957286240.svg",
     "static/media/logo305.svg": "/HighSchoolHomePage/static/media/logo305.c138fbbf41f1e8cade45089554f22163.svg",
     "index.html": "/HighSchoolHomePage/index.html",
-    "main.a3257fdf.css.map": "/HighSchoolHomePage/static/css/main.a3257fdf.css.map",
-    "main.94f49edb.js.map": "/HighSchoolHomePage/static/js/main.94f49edb.js.map"
+    "static/media/korea.svg": "/HighSchoolHomePage/static/media/korea.688ab4746a8709bb551877ea6820d101.svg",
+    "main.20f1601e.css.map": "/HighSchoolHomePage/static/css/main.20f1601e.css.map",
+    "main.69512fa5.js.map": "/HighSchoolHomePage/static/js/main.69512fa5.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3257fdf.css",
-    "static/js/main.94f49edb.js"
+    "static/css/main.20f1601e.css",
+    "static/js/main.69512fa5.js"
   ]
 }
