@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HighSchoolHomePage/static/css/main.2c276e9b.css",
-    "main.js": "/HighSchoolHomePage/static/js/main.8a86d6d3.js",
+    "main.js": "/HighSchoolHomePage/static/js/main.af9f9126.js",
     "static/media/img3.jpg": "/HighSchoolHomePage/static/media/img3.48a60b9395c90f2f619b.jpg",
     "static/media/img2.jpg": "/HighSchoolHomePage/static/media/img2.edff75cdcc59e5831ca3.jpg",
     "static/media/img5.jpg": "/HighSchoolHomePage/static/media/img5.bfd1028002c9b914eaa2.jpg",
@@ -20,10 +20,10 @@
     "index.html": "/HighSchoolHomePage/index.html",
     "static/media/korea.svg": "/HighSchoolHomePage/static/media/korea.688ab4746a8709bb551877ea6820d101.svg",
     "main.2c276e9b.css.map": "/HighSchoolHomePage/static/css/main.2c276e9b.css.map",
-    "main.8a86d6d3.js.map": "/HighSchoolHomePage/static/js/main.8a86d6d3.js.map"
+    "main.af9f9126.js.map": "/HighSchoolHomePage/static/js/main.af9f9126.js.map"
   },
   "entrypoints": [
     "static/css/main.2c276e9b.css",
-    "static/js/main.8a86d6d3.js"
+    "static/js/main.af9f9126.js"
   ]
 }
