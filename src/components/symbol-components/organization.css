@@ -51,7 +51,7 @@
 }
 
 .Box-organ{
-    margin-left: 5vw;
+    margin-left: 2vw;
     justify-content: center;
     align-items: center;
     display: flex;
@@ -65,3 +65,44 @@
     display: flex;
     flex-flow: row;
 }
+
+
+@media (max-width: 767px) {
+    .Body-organ {
+        padding-left: 20vw;
+    }
+    
+    .Box_title-organ{
+        z-index: 1;
+        width: 12.5vw;
+        height: 3vh;
+
+    }
+
+    .Box_name-organ{
+        top: -1.5vh;
+        height: 3.5vh;
+        width: 12.5vw;
+        z-index: 0;
+    }
+
+    .title-organ {
+        font-family: "Gugi", sans-serif;
+        font-size: 1.5vh;
+    }
+
+    .name-organ {
+        padding-top: 1.5vh;
+        font-family: "Gugi", sans-serif;
+        font-size: 1.5vh;
+        color: white;
+    }
+    
+    .name2-organ {
+        padding-top: 1.8vh;
+        font-family: "Gugi", sans-serif;
+        font-size: 0.8vh;
+        color: white;
+    }
+
+  }

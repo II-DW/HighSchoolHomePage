@@ -1,5 +1,5 @@
 .Footer {
-    background-color: white;
+    background-color: rgba(204, 204, 204, 1);
     width: 100vw;
     height: 30vh;
     display: flex;
@@ -10,7 +10,7 @@
   
 
 .FooterBox {
-    background-color: white;
+    background-color: rgba(204, 204, 204, 1);
     width: 100vw;
     display: flex;
     align-items: center;
@@ -31,11 +31,25 @@
   }
   
   .IconBox{
-    width: auto;
-    padding-left: 32.5vw;
+    display: inline;
+    
   }
   
   .daegunlogo{
     width: 2.5vw;
     height: auto;
+  }
+
+  .FooterTxt {
+    font-size: 0.9vw;
+    display: inline;
+
+    margin: 0;
+    padding: 0;
+  }
+
+  .FooterTxt2 {
+    font-size: 0.8vw;
+    display: inline;
+    padding-left: 5vw;
   }

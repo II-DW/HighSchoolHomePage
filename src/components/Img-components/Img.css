@@ -1,0 +1,40 @@
+.ImgCom-gallery {
+    margin-top: 5vh;
+    margin: 0;
+    padding: 0;
+    width: 23vw;
+    height: 23vw;
+    margin-bottom: 2vh;
+}
+
+.Img_main-gallery{
+    
+    object-fit: cover;
+    width: 23vw;
+    height: 23vw;
+    
+}
+
+.ImgCom-gallery:hover .Img_main-gallery{
+    filter: brightness(40%);
+}
+
+.Img_describe-gallery{
+    font-size: 2vw;
+    color: white;
+    position: relative;
+    top: -13vw;
+    left: 6vw;
+    display: none;
+}
+
+
+.Button_Download-gallery{
+    width: 2vw;
+    height: 2vw;
+}
+
+.ImgCom-gallery:hover .Img_describe-gallery{
+    display: block;
+}
+

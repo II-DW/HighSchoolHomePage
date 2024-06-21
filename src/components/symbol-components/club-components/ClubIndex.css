@@ -1,0 +1,18 @@
+.Maincontent-club-Index{
+    display: flex;
+    flex-flow: column;
+    justify-content: left;
+    align-items: left;
+    background-color: white;
+    width: 30vw;
+    height: 65vh;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 5vh;
+}
+
+.VeLine-CI{
+    border: 0.1vw solid greenyellow;
+    width: 0.1vw;
+    height: 5vh;
+    margin-top: 1vh;
+}

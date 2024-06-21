@@ -48,14 +48,21 @@
     box-shadow: 7px 7px rgb(182, 182, 182);
   }
   
-  .ClubImage{
-    width: 20vw;
-    height: 20vw;
-  }
   
-  .Maincontent-club{
-    display: flex;
-    flex-flow: row;
-    justify-content: center;
-    align-items: center;
+@media (max-width:767px) {
+    .Body-learning {
+      justify-content: top;
+      align-items: left;
+      display: flex;
+      flex-flow: column;
   }
+
+  .title-learning{
+    margin-top: -100vh;
+    font-size: 8vw;
+  }
+
+  .subtitle-learning{
+    font-size: 4vw;
+  }
+}

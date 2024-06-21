@@ -8,9 +8,9 @@
   }
   
   .Body-home {
-    background-color: white;
+    background-color: rgba(244, 244, 244, 1);
     width: 100vw;
-    height: 70vh;
+    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;

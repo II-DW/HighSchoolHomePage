@@ -1,0 +1,57 @@
+.Maincontent-club-LineUp{
+    display: flex;
+    flex-flow: column;
+    justify-content: left;
+    align-items: left;
+    background-color: white;
+    width: 50vw;
+    height: 20vh;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 5vh;
+}
+
+.Title-Lineup {
+    margin-top: 1vh;
+    margin-left: 1vw;
+}
+
+.Profile-LineUp{
+    margin-left: 1vw;
+    margin-top: 2vh;
+    border: 1px solid rgb(196, 196, 196);
+    width: 15vw;
+    height: 12vh;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.Profileimg-Lineup{
+    margin-left: 1vw;
+    width: 4vw;
+    height: 4vw;
+}
+
+.Profileimg2-Lineup {
+    width: 1.5vw;
+}
+
+@media (max-width: 767px) {
+    
+    .Profile-LineUp{
+
+        width: 23.5vw;
+
+    }
+
+    .Profileimg-Lineup{
+        width: 4vh;
+        height: 4vh ;
+    }
+
+    .Profileimg2-Lineup {
+        width: 3vh;
+    }
+
+}

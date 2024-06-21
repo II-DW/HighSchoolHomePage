@@ -9,9 +9,9 @@
   }
   
   .Body-symbol {
-    background-color: white;
+    background-color: rgba(244, 244, 244, 1);
     width: 100vw;
-    height: 100vh;
+    height: 150vh;
     display: flex;
     align-items: top;
     justify-content: left;
@@ -100,7 +100,7 @@
     margin-top: 10vh;
     border-left : solid black;
 
-    height : 100vh;
+    height : 130vh;
 
   }
 
@@ -108,3 +108,16 @@
     display: flex;
     flex-flow: row;
   }
+
+@media (max-width:767px) {
+  .Body-symbol {
+
+    height: 200vh;
+  }
+
+  .v-line {
+
+    height : 180vh;
+
+  }
+}

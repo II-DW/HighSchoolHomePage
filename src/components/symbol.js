@@ -5,7 +5,7 @@ import Club from './symbol-components/club';
 import Learning from './symbol-components/learning';
 import Organ from './symbol-components/organization';
 
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 
 function Symbol() {
     const [data1, setData1] = useState(true);
@@ -46,7 +46,7 @@ function Symbol() {
                     조직도
                   </ListGroup.Item>
                   <ListGroup.Item action href="#link3" onClick={Clicked3}>
-                    UBUNTU CLUB
+                    우분투
                   </ListGroup.Item>
                 </ListGroup> 
               </div>

@@ -1,0 +1,59 @@
+*::-webkit-scrollbar {
+    display: none; /* 크롬, 사파리, 오페라, 엣지 */
+  }
+  
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing : border-box;
+  }
+  
+  
+  .Body-gallery {
+    background-color: rgba(244, 244, 244, 1);
+    width: 100vw;
+    min-height: 200vh;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: top;
+    flex-flow: column;
+  }
+
+  .Line-gallery{
+    width: 80vw;
+    height: 1px;
+  }
+
+  .Text-gallery{
+    font-size: 5vw;
+    position: relative;
+    top: -12.5rem;
+    white-space : nowrap;
+  }
+
+  .Img-gallery{
+    width: 100vw;
+    height: 60vh;
+    object-position: center -20vh;
+    opacity: 20%;
+    object-fit: cover;
+    margin-top: 1vh;
+  }
+
+  .ImgBody-gallery{
+    width: 80vw;
+    
+  }
+
+  .Img_S_Body_gallery{
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+  }
+
+  .inline-gallery{
+    flex-basis: 100%;
+  }
+
+  

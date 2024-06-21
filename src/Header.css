@@ -1,5 +1,6 @@
 
 .Header {
+    padding-top: 1.5vh;
     background-color: white;
     width: 100vw;
     height: 10vh;
@@ -32,7 +33,7 @@
   .daegun{
     width: 10vw;
     height: auto;
-    margin-right: 55vw;
+    margin-right: 47vw;
   }
 
   .icon {
@@ -111,6 +112,21 @@
     color: white;
   }
 
+  .icon + label + #header-nav > ul > li {
+    list-style: "📌";
+    padding-top: 5vh;
+  }
+
   .LinkList-nav {
     list-style-image: url("./img//daegun.png");
+  }
+  
+  .Link-Head {
+    font-size: 1.2vw;
+    padding: 5px 5px 2.5px 5px;
+    margin-left: 2vw;
+    background-color: rgb(50, 139, 255);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px 5px 5px 5px;
   }

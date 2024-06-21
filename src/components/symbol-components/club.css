@@ -6,46 +6,69 @@
     padding-left: 10vw;
 }
 
-.Line-club {
-    margin-top: 0;
-    margin-bottom: 2vh;
-    border: 0;
-    width: 60vw;
-    align-items: left;
-    height: 1px;
-    background: black;
-  
-  }
-
   .title-club{
     font-size: 2vw;
   }
-
-  .BoxInBox-club{
-    height: 30rem;
-    width: 40vw;
-    background-color: white;
-    border-radius: 5rem;
-    margin: 1vw;
-    overflow: hidden;
-    text-align: center;
-    border: solid 0.2rem;
-    border-color: black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    box-shadow: 7px 7px rgb(182, 182, 182);
-  }
   
   .ClubImage{
-    width: 20vw;
-    height: 20vw;
+    margin-top: 5vh;
+    margin-left: 2.5vw;
+    width: 4vw;
+    height: 4vw;
   }
   
   .Maincontent-club{
     display: flex;
-    flex-flow: row;
-    justify-content: center;
-    align-items: center;
+    flex-flow: column;
+    justify-content: left;
+    align-items: left;
+    background-color: white;
+    width: 50vw;
+    height: 30vh;
+    border-radius: 20px 20px 20px 20px;
   }
+
+  .ClubTitle-club{
+    display: flex;
+    flex-flow: row;
+  }
+
+  .ClubName-club{
+    padding-top: 5vh;
+    padding-left: 1.5vw;
+    display: flex;
+    flex-flow: column;
+  }
+
+  .ClubNav-club {
+    padding-top: 12vh;
+  }
+
+  .ClubNav-club > ul {
+    display: flex;
+    flex-flow: row;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+
+    list-style: none;
+  }
+
+  .ClubNav-club > ul > li {
+    margin-left: 2vw;
+    cursor: pointer;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    text-transform:uppercase;
+  }
+
+
+  .ClubNav-club > ul > li:hover{
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+    text-underline-position: under;
+  }
+
+
