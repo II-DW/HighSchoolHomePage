@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HighSchoolHomePage/static/css/main.770248d7.css",
-    "main.js": "/HighSchoolHomePage/static/js/main.1d8cdbb4.js",
+    "main.js": "/HighSchoolHomePage/static/js/main.114a0aa2.js",
     "static/media/2024 영어 변형문제(하).pdf": "/HighSchoolHomePage/static/media/2024 영어 변형문제(하).d4ecc91cb196c66777db.pdf",
     "static/media/2024 영어독해 변형문제(하).pdf": "/HighSchoolHomePage/static/media/2024 영어독해 변형문제(하).e5654d1972d3818f6b4e.pdf",
     "static/media/img3.jpg": "/HighSchoolHomePage/static/media/img3.48a60b9395c90f2f619b.jpg",
@@ -28,10 +28,10 @@
     "index.html": "/HighSchoolHomePage/index.html",
     "static/media/korea.svg": "/HighSchoolHomePage/static/media/korea.688ab4746a8709bb551877ea6820d101.svg",
     "main.770248d7.css.map": "/HighSchoolHomePage/static/css/main.770248d7.css.map",
-    "main.1d8cdbb4.js.map": "/HighSchoolHomePage/static/js/main.1d8cdbb4.js.map"
+    "main.114a0aa2.js.map": "/HighSchoolHomePage/static/js/main.114a0aa2.js.map"
   },
   "entrypoints": [
     "static/css/main.770248d7.css",
-    "static/js/main.1d8cdbb4.js"
+    "static/js/main.114a0aa2.js"
   ]
 }
