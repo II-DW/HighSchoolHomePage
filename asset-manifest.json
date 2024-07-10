@@ -1,11 +1,19 @@
 {
   "files": {
-    "main.css": "/HighSchoolHomePage/static/css/main.2c276e9b.css",
-    "main.js": "/HighSchoolHomePage/static/js/main.80e06b95.js",
+    "main.css": "/HighSchoolHomePage/static/css/main.770248d7.css",
+    "main.js": "/HighSchoolHomePage/static/js/main.1d8cdbb4.js",
+    "static/media/2024 영어 변형문제(하).pdf": "/HighSchoolHomePage/static/media/2024 영어 변형문제(하).d4ecc91cb196c66777db.pdf",
+    "static/media/2024 영어독해 변형문제(하).pdf": "/HighSchoolHomePage/static/media/2024 영어독해 변형문제(하).e5654d1972d3818f6b4e.pdf",
     "static/media/img3.jpg": "/HighSchoolHomePage/static/media/img3.48a60b9395c90f2f619b.jpg",
     "static/media/img2.jpg": "/HighSchoolHomePage/static/media/img2.edff75cdcc59e5831ca3.jpg",
     "static/media/img5.jpg": "/HighSchoolHomePage/static/media/img5.bfd1028002c9b914eaa2.jpg",
     "static/media/img4.jpg": "/HighSchoolHomePage/static/media/img4.060c23fcc3051392c0b2.jpg",
+    "static/media/2024 영어독해 변형문제(상).pdf": "/HighSchoolHomePage/static/media/2024 영어독해 변형문제(상).ebbefc9507759bb64487.pdf",
+    "static/media/2024 영어 변형문제(상).pdf": "/HighSchoolHomePage/static/media/2024 영어 변형문제(상).8f54c629f199b37c638b.pdf",
+    "static/media/2024 영어 변형문제(하) 해설.pdf": "/HighSchoolHomePage/static/media/2024 영어 변형문제(하) 해설.b2d6ba77c02602a5a566.pdf",
+    "static/media/2024 영어독해 변형문제(하) 해설.pdf": "/HighSchoolHomePage/static/media/2024 영어독해 변형문제(하) 해설.b4f3895e3d7ecc6a4770.pdf",
+    "static/media/2024 영어독해 변형문제(상) 해설.pdf": "/HighSchoolHomePage/static/media/2024 영어독해 변형문제(상) 해설.b05c4337d090045bcba8.pdf",
+    "static/media/2024 영어 변형문제(상) 해설.pdf": "/HighSchoolHomePage/static/media/2024 영어 변형문제(상) 해설.922de95efeeca068586f.pdf",
     "static/media/img1.jpg": "/HighSchoolHomePage/static/media/img1.c8d1ec9ac06000b9c88e.jpg",
     "static/media/logo303.svg": "/HighSchoolHomePage/static/media/logo303.f1be12723c01bfb44271ce610ecf1e39.svg",
     "static/media/clublogo.png": "/HighSchoolHomePage/static/media/clublogo.5de201a0ec551700ee6c.png",
@@ -19,11 +27,11 @@
     "static/media/logo305.svg": "/HighSchoolHomePage/static/media/logo305.c138fbbf41f1e8cade45089554f22163.svg",
     "index.html": "/HighSchoolHomePage/index.html",
     "static/media/korea.svg": "/HighSchoolHomePage/static/media/korea.688ab4746a8709bb551877ea6820d101.svg",
-    "main.2c276e9b.css.map": "/HighSchoolHomePage/static/css/main.2c276e9b.css.map",
-    "main.80e06b95.js.map": "/HighSchoolHomePage/static/js/main.80e06b95.js.map"
+    "main.770248d7.css.map": "/HighSchoolHomePage/static/css/main.770248d7.css.map",
+    "main.1d8cdbb4.js.map": "/HighSchoolHomePage/static/js/main.1d8cdbb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c276e9b.css",
-    "static/js/main.80e06b95.js"
+    "static/css/main.770248d7.css",
+    "static/js/main.1d8cdbb4.js"
   ]
 }
